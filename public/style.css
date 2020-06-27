@@ -1,0 +1,76 @@
+
+body {
+    background-image: url(black-click-pen-on-white-paper-167682.jpg);
+    background-size: cover;
+
+}
+
+
+
+
+.main {
+    border: 6px solid steelblue;
+    width: 250px;
+    margin: 0 auto;
+    background-color: rgb(7, 7, 31);
+    
+    border-radius: 20px;
+}
+.result {
+     width: 95%;
+    background-color: rgb(170, 170, 236);
+    color: white;
+    height: 50px;
+    margin-top: 8px;
+    margin-left: 2px; 
+     border-radius: 40px;
+} 
+/* 
+rgb(7, 7, 31) */
+.clearBtn  {
+    width: 30%;
+    margin-top: 10px;
+    background-color: lightgrey;
+    margin-top: 8px;
+    margin-left: 5px;
+    height: 30px;
+    border-radius: 30px;
+    font-family: 'Orbitron', sans-serif;    
+
+}
+
+.btn {
+    background-color: lightgrey;
+    width: 50px;
+    margin: 1px;
+    margin-left: 7px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    border-radius: 30px;
+     font-family: 'Orbitron', sans-serif;
+
+}
+
+.myname {
+    font-family: cursive;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    padding-bottom: 1px;
+    padding-top: 10px;
+}
+
+.btn1 {
+    background-color: lightgrey;
+    width: 100px !important;
+    margin: 1px;
+    margin-left: 7px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    height: 30px;
+    border-radius: 30px;
+     font-family: 'Orbitron', sans-serif;
+
+
+}
+
